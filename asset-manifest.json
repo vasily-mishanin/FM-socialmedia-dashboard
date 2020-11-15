@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FM-socialmedia-dashboard/static/css/main.9a95fcc4.chunk.css",
+    "main.js": "/FM-socialmedia-dashboard/static/js/main.6816de27.chunk.js",
+    "main.js.map": "/FM-socialmedia-dashboard/static/js/main.6816de27.chunk.js.map",
+    "runtime-main.js": "/FM-socialmedia-dashboard/static/js/runtime-main.6bd4b82f.js",
+    "runtime-main.js.map": "/FM-socialmedia-dashboard/static/js/runtime-main.6bd4b82f.js.map",
+    "static/js/2.94d47d7b.chunk.js": "/FM-socialmedia-dashboard/static/js/2.94d47d7b.chunk.js",
+    "static/js/2.94d47d7b.chunk.js.map": "/FM-socialmedia-dashboard/static/js/2.94d47d7b.chunk.js.map",
+    "index.html": "/FM-socialmedia-dashboard/index.html",
+    "static/css/main.9a95fcc4.chunk.css.map": "/FM-socialmedia-dashboard/static/css/main.9a95fcc4.chunk.css.map",
+    "static/js/2.94d47d7b.chunk.js.LICENSE.txt": "/FM-socialmedia-dashboard/static/js/2.94d47d7b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FM-socialmedia-dashboard/static/media/icon-youtube.cad14335.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd4b82f.js",
+    "static/js/2.94d47d7b.chunk.js",
+    "static/css/main.9a95fcc4.chunk.css",
+    "static/js/main.6816de27.chunk.js"
+  ]
+}
